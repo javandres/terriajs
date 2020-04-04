@@ -98,13 +98,13 @@ const SidePanel = createReactClass({
             btnText={t("addData.btnHide")}
           />
 
-          <SearchBox
+          {/* <SearchBox
             onSearchTextChanged={this.changeSearchText}
             onDoSearch={this.search}
             onFocus={this.startLocationSearch}
             searchText={searchState.locationSearchText}
             placeholder={t("search.placeholder")}
-          />
+          /> */}
           <div className={Styles.addData}>
             <button
               type="button"
