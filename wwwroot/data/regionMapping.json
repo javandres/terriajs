@@ -13,7 +13,9 @@
                 "COD_parroquia",
                 "DPA_PARROQ",
                 "ID_PARROQUIA",
-                "id_PARROQUIA"
+                "id_parroquia",
+                "parroquia_id"
+
             ],
             "digits": 6,
             "textCodes": true,
@@ -43,7 +45,9 @@
                 "COD_CANTON",
                 "DPA_CANTON",
                 "ID_CANTON",
-                "id_canton"
+                "id_canton",
+                "inec_canton_id",
+                "canton_id"
             ],
             "digits": 4,
             "textCodes": true,
@@ -73,7 +77,9 @@
                 "COD_PROV",
                 "DPA_PROVIN",
                 "ID_PROVINICA",
-                "id_provincia"
+                "id_provincia",
+                "inec_provincia_id",
+                "provincia_id"
             ],
             "digits": 2,
             "textCodes": true,
